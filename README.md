@@ -1,2 +1,0 @@
-# Adventure
-Created with CodeSandbox
